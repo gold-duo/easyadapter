@@ -6,7 +6,7 @@
 2 ListView row abstract UI structure (GridView grid UI). The focus of concerns to the line UI structure, easy diverse and complex line UI (grid UI), but also through an object-oriented inheritance to reuse UI. 
 
 3 shows a view can be flexible UI in each row according to the current gesture. For example, do not show pictures when FLING, not registered in the SCROLL when OnClickListener so. 
-1. Welcome to download the following example [easyadapter-sample ](https://bitbucket.org/droidwolf/easyadapter-sample "easyadapter-sample")！
+1. Welcome to download the following example [easyadapter-sample ](https://github.com/droidwolf/easyadapter-sample "easyadapter-sample")！
 
 # easyadapter 简介 #
 
