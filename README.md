@@ -15,4 +15,4 @@
 2. 抽象出ListView行UI构造(GridView格子UI)。将关注点聚焦到行UI的构造，轻松实现多样复杂的行UI(格子UI)，而且还可以通过面向对象的继承方式来复用UI。
 
 3. 在每行UI中可以灵活的根据当前手势展示视图。比如在FLING时不显示图片、在SCROLL时不注册OnClickListener等等。
-1. 欢迎下载下面的示例[easyadapter-sample ](https://bitbucket.org/droidwolf/easyadapter-sample "easyadapter-sample")！
+1. 欢迎下载下面的示例[easyadapter-sample ](https://github.com/droidwolf/easyadapter-sample "easyadapter-sample")！
